@@ -1,0 +1,26 @@
+		  
+navigation.cpp      
+optfeatureutil.h	
+stdafx.cpp
+avoidOptflow.cpp	  
+navigation.h	      
+opticalflow.cpp	
+stdafx.h
+avoidOptFlow_qt.pro	  
+optcvmatutil.cpp    
+opticalflow.h	
+targetver.h
+optcvmatutil.h      
+optmatutil.cpp	
+test.cpp
+imgutil.h		  
+optdrawflow.cpp     
+optmatutil.h	
+test.h
+motioncolor.cpp		  
+optdrawflow.h       
+optutil.cpp	video.cpp
+motioncolor.h		  
+optfeatureutil.cpp  
+optutil.h		
+video.h
